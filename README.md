@@ -88,7 +88,7 @@ I aim to grow in the field of smart technologies, expanding into **large-scale a
 
 - **LinkedIn:** [linkedin.com/in/francois-dagher-8139941a1](https://www.linkedin.com/in/francois-dagher-8139941a1)
 - **GitHub:** [github.com/frncsdghr](https://github.com/frncsdghr)
-
+- **EMAIL:** [francoisdagher@outlook.com]
 ---
 
 *This CV is a living document — check back for updates on new projects and skills!*
