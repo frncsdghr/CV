@@ -32,7 +32,7 @@ I thrive at the intersection of hardware and software, building systems that are
 *Current*
 
 - Design, install, and commission KNX-based smart home systems (Akubela, Schneider, ABB, GEWISS) with DALI lighting control.
-- Deploy IP intercom, CCTV, and access control solutions for residential and commercial projects.
+- Deploy IP intercom,PBX(GRANDSTREAM), CCTV, and access control solutions for residential and commercial projects.
 - Manage and maintain structured low-voltage infrastructure ensuring reliability and scalability.
 - Bridge field engineering with digital tools to create fully integrated intelligent environments.
 
